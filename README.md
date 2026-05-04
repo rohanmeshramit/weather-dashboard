@@ -3,7 +3,7 @@
 A weather dashboard web application built with vanilla HTML, CSS and JavaScript. It fetches real-time weather data from the OpenWeatherMap API and displays current conditions, a 5-day forecast, and an hourly temperature graph.
 
 ## Live Demo
-[Add your live link here after deployment]
+[Weather Dashboard Live Demo](https://rohanmeshramit.github.io/weather-dashboard/)
 
 ## Screenshots
 [Add screenshots here after deployment]
