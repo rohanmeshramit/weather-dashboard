@@ -5,8 +5,8 @@ A weather dashboard web application built with vanilla HTML, CSS and JavaScript.
 ## Live Demo
 [Weather Dashboard Live Demo](https://rohanmeshramit.github.io/weather-dashboard/)
 
-## Screenshots
-[Add screenshots here after deployment]
+## Demo
+![Weather Dashboard Demo](assets/demo.gif)
 
 ## Features
 
@@ -40,4 +40,4 @@ A weather dashboard web application built with vanilla HTML, CSS and JavaScript.
 
 ## Author
 
-Rohan — Information Technology   Student
+Rohan — Information Technology Student
